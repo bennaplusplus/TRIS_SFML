@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\ProgettiGitlab\TRIS_SFML\SFML\include\SFML\System\Exception.hpp(41,47): warning C4275: class di interfaccia non dll 'std::runtime_error' utilizzato come base per class di interfaccia dll 'sf::Exception'
+  (compilazione del file di origine 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdexcept(100,30):
+      vedere la dichiarazione di 'std::runtime_error'
+      C:\ProgettiGitlab\TRIS_SFML\SFML\include\SFML\System\Exception.hpp(41,23):
+      vedere la dichiarazione di 'sf::Exception'
+  
+C:\ProgettiGitlab\TRIS_SFML\main.cpp(168,26): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\ProgettiGitlab\TRIS_SFML\main.cpp(328,27): warning C4244: 'inizializzazione': conversione da 'float' a 'unsigned int'. Possibile perdita di dati.
+C:\ProgettiGitlab\TRIS_SFML\main.cpp(329,24): warning C4244: 'inizializzazione': conversione da 'float' a 'unsigned int'. Possibile perdita di dati.
+C:\ProgettiGitlab\TRIS_SFML\main.cpp(369,20): warning C4267: 'argomento': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\ProgettiGitlab\TRIS_SFML\main.cpp(369,17): warning C4267: 'argomento': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\ProgettiGitlab\TRIS_SFML\main.cpp(373,19): warning C4267: 'argomento': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\ProgettiGitlab\TRIS_SFML\main.cpp(373,16): warning C4267: 'argomento': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  Briscola.vcxproj -> C:\ProgettiGitlab\TRIS_SFML\bin\x64\Debug\Tris.exe
+          1 file copiati.
+          1 file copiati.
+          1 file copiati.
